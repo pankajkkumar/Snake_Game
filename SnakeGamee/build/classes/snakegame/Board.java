@@ -1,5 +1,5 @@
 
-ppackage snakegame;
+package snakegame;
 
 import javax.swing.*;
 import java.awt.*;
